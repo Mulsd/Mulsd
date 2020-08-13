@@ -6,6 +6,7 @@
 - ✨ I like programming.
 - 📄 I'm currently learning HTML, JS, CSS.
 - 🌱 I am trying to learn programming knowledge.
+- 📫 [Send an email to me](mailto:Mulsd@qq.com)
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
