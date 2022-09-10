@@ -2,10 +2,10 @@
 
 <h1>  Hey 👋, I'm <a href="https://Mulsd.tk" target="_blank">Mulsd</a>! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h1>
 
-- 🎉 Just a lazy boy.
-- ✨ I like programming.
-- 📄 I'm currently learning HTML, JS, CSS.
-- 🌱 I am trying to learn programming knowledge.
+- 擅长Ai、Ae、Pr、Ps等软件的安装与卸载
+- 精通CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、spss、sas等单词的拼写
+- 熟悉Windows、Linux、Mac、Android、IOS、WP等开关机
+
 - 📫 [Send an email to me](mailto:Mulsd@qq.com)
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
